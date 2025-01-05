@@ -27,6 +27,14 @@ const Highlights = () => {
               Watch the event
               <img src={rightImg} alt="right" className="ml-2" />
             </p>
+            <button
+              onClick={() => {
+                throw new Error("This is your first error!");
+              }}
+            >
+              Break the world
+            </button>
+            ;
           </div>
         </div>
 
