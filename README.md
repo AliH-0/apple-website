@@ -18,3 +18,5 @@ This is a **frontend recreation** of the Apple website built with modern web tec
 ## 🛠️ Technologies Used
 - [React](https://reactjs.org/) for building a dynamic and component-based UI.
 - [Three.js](https://threejs.org/) for creating and rendering 3D iPhone
+- [Tailwind CSS](https://tailwindcss.com/) for utility-first styling.
+- [Sentry](https://sentry.io/) for monitoring and debugging.
