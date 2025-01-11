@@ -10,6 +10,9 @@ This is a **frontend recreation** of the Apple website built with modern web tec
 - **Animations**:
   - Seamless animations implemented with [GSAP](https://greensock.com/gsap/).
   - Smooth scrolling effects and engaging transitions throughout the site.
+- **Rotating Video Banners**:
+  - Features rotating video banners that can be paused anytime.
+  - Includes a loading bar to indicate how much of the video is left.
 - **Responsive Design**:
   - Styled with [Tailwind CSS](https://tailwindcss.com/), ensuring a responsive and pixel-perfect layout on all devices.
 - **Error Monitoring**:
