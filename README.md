@@ -20,3 +20,10 @@ This is a **frontend recreation** of the Apple website built with modern web tec
 - [Three.js](https://threejs.org/) for creating and rendering 3D iPhone
 - [Tailwind CSS](https://tailwindcss.com/) for utility-first styling.
 - [Sentry](https://sentry.io/) for monitoring and debugging.
+
+## Screenshots
+![Screenshot 1](./public/assets/screenshots/screenshot1.png)
+![Screenshot 1](./public/assets/screenshots/screenshot1.png)
+![Screenshot 3](./public/assets/screenshots/screenshot1.png)
+![Screenshot 4](./public/assets/screenshots/screenshot1.png)
+
