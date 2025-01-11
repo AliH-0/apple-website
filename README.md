@@ -23,7 +23,7 @@ This is a **frontend recreation** of the Apple website built with modern web tec
 
 ## Screenshots
 ![Screenshot 1](./public/assets/screenshots/screenshot1.png)
-![Screenshot 1](./public/assets/screenshots/screenshot1.png)
-![Screenshot 3](./public/assets/screenshots/screenshot1.png)
-![Screenshot 4](./public/assets/screenshots/screenshot1.png)
+![Screenshot 1](./public/assets/screenshots/screenshot2.png)
+![Screenshot 3](./public/assets/screenshots/screenshot3.png)
+![Screenshot 4](./public/assets/screenshots/screenshot4.png)
 
